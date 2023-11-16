@@ -1,7 +1,8 @@
 <Project>
+
     <PropertyGroup>
         <Authors>benjamin.hodgson</Authors>
-        <Copyright>© Benjamin Hodgson, 2017-2022</Copyright>
+        <Copyright>© Benjamin Hodgson, 2017-2023</Copyright>
         <Description>UNDEFINED</Description>
         <PackageTags>UNDEFINED</PackageTags>
 
@@ -14,5 +15,7 @@
         <AssemblyOriginatorKeyFile>UNDEFINED</AssemblyOriginatorKeyFile>
 
         <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+        <UseArtifactsOutput>true</UseArtifactsOutput>
     </PropertyGroup>
+
 </Project>
