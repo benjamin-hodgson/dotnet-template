@@ -2,10 +2,10 @@
 
     <ItemGroup>
         <PackageVersion Include="Benjamin.Pizza.DocTest" Version="1.1.0" />
-        <PackageVersion Include="coverlet.collector" Version="6.0.2" />
-        <PackageVersion Include="Microsoft.NET.Test.Sdk" Version="17.9.0" />
-        <PackageVersion Include="xunit.v3" Version="1.0.0" />
-        <PackageVersion Include="xunit.runner.visualstudio" Version="3.0.0" />
+        <PackageVersion Include="Microsoft.NET.Test.Sdk" Version="18.0.0" />
+        <PackageVersion Include="Microsoft.Testing.Extensions.CodeCoverage" Version="18.1.0" />
+        <PackageVersion Include="Microsoft.Testing.Extensions.TrxReport" Version="2.0.1" />
+        <PackageVersion Include="xunit.v3.mtp-v2" Version="3.2.0" />
     </ItemGroup>
 
     <ItemGroup>
